@@ -2,7 +2,7 @@
 #main {
   padding: 40px;
   text-align: center;
-  width: 100%;
+  width: 95%;
   background-color: rgb(140, 150, 160);
   justify-content: center;
   align-items: center;
@@ -80,14 +80,14 @@ p3 {
 }
 
 p7 {
- margin-left: 45%;
+ 
  font-size: 17px;
  font-family: corbel;
  float: center;
 }
 
 p4 {
- margin-left: 45%;
+ 
  font-size: 16px;
  font-family: corbel;
 }
@@ -109,8 +109,9 @@ nav {
   padding: 16px;
   font-family: rockwell;
   float: left;
-  width: 40%;
+  width: 27%;
   margin-right: 40px;
+  background-color: rgba(235, 243, 243, 0.774);
 }
 
 /* Style the list inside the menu */
